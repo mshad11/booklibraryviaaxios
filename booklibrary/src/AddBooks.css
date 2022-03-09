@@ -1,0 +1,17 @@
+.addbooks{
+    position: absolute;
+    top: 10px;
+    right: 25%;
+}
+.addBooks-input{
+height: 20px;
+width: 300px;
+margin-bottom: 15px;
+
+}
+.addBook-button{
+    margin-top: 10px;
+    width: 100%;
+    padding: 10px 15px;
+
+}

@@ -1,0 +1,49 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid gray;
+    max-width: 350px;
+    min-width: 250px;
+    min-height: 150px;
+    padding: 10px;
+    align-items: center;
+    margin: 20px;
+}
+.card:hover{
+    transform: scale(1.05);
+} 
+.card-title{
+    margin-bottom: 20px;
+}
+.card-description{
+width: 100%;
+justify-content: flex-start;
+margin-bottom: 20px;
+}
+.card-summary{
+    width: 100%;
+    justify-content: flex-start;
+    margin: 10px 0;
+    opacity: 0.8;
+}
+.card-buttons{
+    margin-top: 20px;
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    
+}
+.buttonedit{
+margin-right: 20px;
+padding: 10px 20px;
+   background-color: blue;
+   font-size: 1rem; 
+   color: whitesmoke;
+}
+.buttondelete{
+    margin-right: 20px;
+ font-size: 1rem;
+ padding: 10px 20px;
+ background-color: red;
+ color: whitesmoke;
+ }

@@ -1,0 +1,11 @@
+.nav{
+    height: 70px;
+    background-color: black;
+    color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    top: 0px;
+margin: bottom 40px; ;
+}

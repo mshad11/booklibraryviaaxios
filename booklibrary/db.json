@@ -1,0 +1,60 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "React",
+      "author": "Sahil",
+      "genre": "Tech",
+      "summary": "Master React"
+    },
+    {
+      "id": 2,
+      "title": "Java Script",
+      "author": "Mrigank",
+      "genre": "Tech",
+      "summary": " Master js"
+    },
+    {
+      "id": 3,
+      "title": "Wings of Fire",
+      "author": "APJ Abul Kalam",
+      "genre": "Life",
+      "summary": "Great Read"
+    },
+    {
+      "title": "Adil",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "title": "The World as I see it",
+      "author": "Atif",
+      "genre": "real",
+      "summary": "Fab"
+    },
+    {
+      "id": 6,
+      "title": "Treasure Island",
+      "author": "Usman",
+      "genre": "Drama",
+      "summary": "Marvelous"
+    },
+    {
+      "id": 8,
+      "title": "Controversially Yours",
+      "author": "Shoaib Akther",
+      "genre": "Cricket",
+      "summary": "Suspense"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
